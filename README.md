@@ -2,14 +2,14 @@
 Based off of fishgang cy's chatbot, but in python (and easier to setup)
 
 # Setup
-head over to https://brainshop.ai
-Create an account
-Click Add Brain, and fill it out how you want
-Go to settings, and copy your Brain ID and Api Key
-Head over to https://discord.com/developers 
-Create a bot
-Copy the token
-Open the program, and fill out the inserted fields
 
-And boom! It's all ready to go
-
+head over to https://brainshop.ai </br>
+Create an account </br>
+Click Add Brain, and fill it out how you want </br>
+Go to settings, and copy your Brain ID and Api Key </br>
+Head over to https://discord.com/developers  </br>
+Create a bot </br>
+Copy the token </br>
+Open the program, and fill out the inserted fields </br>
+</br> </br> 
+And boom! It's all ready to go </br> 
