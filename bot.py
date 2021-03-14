@@ -1,5 +1,4 @@
 import discord, os, requests, pymongo, asyncio
-from keep_alive import keep_alive
 from discord.ext import commands
 from dotenv import load_dotenv
 load_dotenv()
@@ -18,7 +17,6 @@ class request:
 
 # -------- Set Variables -------- #
 
-keep_alive()
 database = pymongo.MongoClient(os.getenv('DATABASEURL'))
 collection = database.get_database("chatbot").get_collection("settings")
 apikey = os.getenv('APIKEY')
