@@ -1,5 +1,5 @@
 # Discord AI Chatbot
-Based off of fishgang cy's chatbot, but in python (and easier to setup)
+Chatbot with options to disable/enable, and blacklist channels.
 
 # Setup
 
@@ -10,6 +10,6 @@ Go to settings, and copy your Brain ID and Api Key </br>
 Head over to https://discord.com/developers  </br>
 Create a bot </br>
 Copy the token </br>
-Open the program, and fill out the inserted fields </br>
+Open the program, and fill out the inserted fields in a .env file </br>
 </br> </br> 
 And boom! It's all ready to go </br> 
